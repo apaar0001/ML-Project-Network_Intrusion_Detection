@@ -171,14 +171,6 @@ ML-Project-Network_Intrusion_Detection/
 
 ---
 
-## 👥 Contributors
-
-- [Your Name](https://github.com/your-github)
-- [Collaborator 1](https://github.com/collaborator1)
-- [Collaborator 2](https://github.com/collaborator2)
-
----
-
 ## 📚 References
 
 - [KDD Cup 1999 Dataset](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
